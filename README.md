@@ -8,6 +8,7 @@ Content Added
 - Made the webpage mobile friendly
 - Added a blend of colors
 - Added responsive elements to make webpage more engaging
+- Added text enlargement on subheaders
 
 This project helped me learn basics of html,css, and semantic elements. Through building this, I also gained valuable knowledge on responsive elements, div placements, and github basics.
 
