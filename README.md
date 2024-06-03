@@ -1,6 +1,6 @@
 # 02-Challenge
 
-##Description
+## Description
 
 This project shows how we can make websites more accessable for search engines. In addition to the search engine benefits, making websites more accessable helps companies avoid litigation, which is a possibility if people with disabilities can't access a website.
 
@@ -11,7 +11,7 @@ Content Added
 
 This project helped me learn basics of html,css, and semantic elements. Through building this, I also gained valuable knowledge on responsive elements, div placements, and github basics.
 
-##Table of Contents
+## Table of Contents
 
 -Horiseon Heading
 -Main Graphic
