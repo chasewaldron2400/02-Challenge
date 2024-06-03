@@ -26,7 +26,7 @@ This project helped me learn basics of html,css, and semantic elements. Through 
 
 To install, click green code button and copy your preferred method (https or ssh) to copy code.
 
-##Usage
+## Usage
 
 This website will help you navigate your social media career.
 
