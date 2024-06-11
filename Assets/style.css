@@ -48,6 +48,7 @@ a {
 
 a:hover {
     color: darkblue;
+    font-size: 200%;
 }
 
 p {
@@ -58,7 +59,7 @@ p {
 p:hover {
     opacity: 1;
     font-size: 32px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
 }
 
 .hero {
@@ -192,15 +193,27 @@ p:hover {
     margin-bottom: 20px;
     font-size: 40px;
 }
+.search-engine-optimization h2:hover {
+    margin-bottom: 20px;
+    font-size: 80px;
+}
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 40px;
 }
+.online-reputation-management h2:hover {
+    margin-bottom: 20px;
+    font-size: 80px;
+}
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 40px;
+}
+.social-media-marketing h2:hover {
+    margin-bottom: 20px;
+    font-size: 80px;
 }
 
 .footer {
