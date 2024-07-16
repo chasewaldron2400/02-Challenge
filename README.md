@@ -12,16 +12,18 @@ Content Added
 
 This project helped me learn basics of html,css, and semantic elements. Through building this, I also gained valuable knowledge on responsive elements, div placements, and github basics.
 
+![WebpageScreenshot](Assets/images/image.png)
+
 ## Table of Contents
 
--Horiseon Heading
--Main Graphic
--Search Engine Optimization
--Online Reputation Mangement
--Social Media Marketing
--Lead Generation
--Brand Awareness
--Cost Management
+- Horiseon Heading
+- Main Graphic
+- Search Engine Optimization
+- Online Reputation Mangement
+- Social Media Marketing
+- Lead Generation
+- Brand Awareness
+- Cost Management
 
 ## Installation
 

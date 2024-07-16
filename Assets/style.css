@@ -227,6 +227,8 @@ p:hover {
     font-size: 20px;
 }
 
+/* added for mobile users */
+
 @media screen and (max-width:1037px) {
     .header {
         padding: 50px;
@@ -266,6 +268,7 @@ p:hover {
         text-align: left;
         padding: 20px;
     }
+    /* Added for accessability  */
     p:hover {
         font-size: 28px;
     }
